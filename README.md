@@ -1,4 +1,3 @@
-DevTools-webapp
-
+A simple java web-application
 
 
